@@ -6,7 +6,7 @@
 
 ### Description
 
-This week's code review is a a website for an independent bookstore.
+This week's code review is a a website for an independent bookstore, built using Drupal 7.
 
 ![screenshot of the bookworm mock site](sites/all/images/screenshot.jpg)
 
