@@ -1,0 +1,24 @@
+#page #top-content {
+  font-size: 26px;
+  font-weight: normal;
+  font-style: italic;
+  font-family: Georgia,Serif;
+  color: #c46c82;
+  background-color: #e3d576;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
+
+.col-md-12 #site-slogan {
+  font-size: 22px;
+  color: #614e61;
+  font-family: 'Lucida Sans','Lucida Grande',Sans-Serif;
+  background-color: transparent;
+}
+
+a img {
+  margin-top: 18px;
+}
+
