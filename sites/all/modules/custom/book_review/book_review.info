@@ -32,5 +32,6 @@ features[variable][] = menu_parent_book_review
 features[variable][] = node_options_book_review
 features[variable][] = node_preview_book_review
 features[variable][] = node_submitted_book_review
+features[views_view][] = book_reviews_page
 features[views_view][] = new_books
 project path = sites/all/modules/custom
