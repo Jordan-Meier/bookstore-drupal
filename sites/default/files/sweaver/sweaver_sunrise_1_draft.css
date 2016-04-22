@@ -11,3 +11,10 @@
   border-left-style: solid;
 }
 
+.col-md-12 #site-slogan {
+  font-size: 22px;
+  color: #614e61;
+  font-family: 'Lucida Sans','Lucida Grande',Sans-Serif;
+  background-color: transparent;
+}
+
