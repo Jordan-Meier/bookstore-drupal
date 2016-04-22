@@ -1,0 +1,16 @@
+.content p {
+  background-color: transparent;
+  background-position: 50% 50%;
+  font-size: 14px;
+  text-align: left;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: #171617;
+  border-right-color: #171617;
+  border-bottom-color: #171617;
+  border-left-color: #171617;
+  font-family: 'Palatino Linotype',Palatino,Serif;
+}
+
