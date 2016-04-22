@@ -28,7 +28,7 @@ You will need the following things properly installed on your computer.
 * Select the project directory.
 * Start the Servers.
 * In your browser, navigate to: http://localhost:8888/phpMyAdmin/
-* Import the database that is located in the sites/all/db-backup called book_store.sql
+* Import the database that is located in the sites/all/db-backup called book_store.sql (The name of the database is: book_store).
 * Once the database is successfully downloaded, click on it on the far left of the screen, and find the tab at the top of the screen called 'Privileges'.
 * Add the following user:
 `User name: admin-bookstore
